@@ -1,0 +1,25 @@
+The shop is a home-delivery pizza shop
+ The customer fills in the order 
+ the customer submits the order to the shop
+ with the payment
+ the customer use the web-site
+ Making good pizzas requires good quality dough
+ produced in-house
+ careful baking of the pizza
+ To make clients happy
+ the shop quickly fulfill the order 
+ the delivery-boy know the streets 
+ the delivery-boy how to speedily reach the customer’s address
+ The customer connects to the web-site 
+ the customer places the customer's order
+ the customer provide also the payment
+ On the arrival of the customer’s order at the shop
+ the cook puts the order on the worklist
+ When the customer’s turn arrives
+ the cook prepares the pizzas
+ the cook cooks the pizzas
+ the cook alerts the delivery-boy to come 
+ pick up the pizzas
+ the delivery-boy collects the pizzas 
+ the delivery-boy starts the delivery-boy delivery trip
+ the delivery-boy eventually achieves the delivery to the customer’s home

@@ -1,0 +1,16 @@
+<  customer, TO FILL,  order>
+< customer, TO SUBMIT,  order>
+<  customer, TO USE,  web>
+< shop, TO FULFILL,  order>
+<  delivery-boy, TO KNOW,  streets>
+<  delivery-boy, TO REACH,  customer’s address>
+<  customer, TO CONNECT,  web>
+< customer, TO PLACE,  customer's order>
+<  customer, TO PROVIDE,  payment>
+<  cook, TO PUT,  order on  worklist>
+< cook, TO PREPARE,  pizzas>
+< cook, TO COOK,  pizzas>
+<  cook, TO ALERT,  delivery-boy>
+<  delivery-boy, TO COLLECT,  pizzas>
+<  delivery-boy, TO START,  delivery-boy delivery trip>
+<  delivery-boy, TO ACHIEVE,  delivery to  customer’s home>

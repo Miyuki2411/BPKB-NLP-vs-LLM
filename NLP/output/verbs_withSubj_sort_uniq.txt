@@ -1,0 +1,16 @@
+achieve
+alert
+collect
+connect
+cook
+fill
+fulfill
+know
+place
+prepare
+provide
+put
+reach
+start
+submit
+use

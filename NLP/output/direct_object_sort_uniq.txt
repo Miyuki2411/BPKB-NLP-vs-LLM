@@ -1,0 +1,10 @@
+address
+delivery
+delivery-boy
+dough
+order
+payment
+pizza
+street
+trip
+web-site

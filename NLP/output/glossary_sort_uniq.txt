@@ -1,0 +1,18 @@
+address	address.n.02	the place where a person or organization can be found or communicated with
+boy	male_child.n.01	a youthful male person
+cook	cook.n.01	someone who cooks food
+client	customer.n.01	someone who pays for goods or services
+customer	customer.n.01	someone who pays for goods or services
+delivery	delivery.n.01	the act of delivering or distributing something (as goods or mail)
+delivery-boy	deliveryman.n.01	someone employed to make deliveries
+dough	dough.n.01	a flour mixture stiff enough to knead or roll
+order	order.n.07	a commercial document used to request someone to supply something in return for payment and providing specifications and quantities
+payment	payment.n.02	the act of paying money
+pizza	pizza.n.01	Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese
+s
+shop	shop.n.01	a mercantile establishment for the retail sale of goods or services
+site	web_site.n.01	a computer connected to the internet that maintains a series of web pages on the World Wide Web
+street	street.n.01	a thoroughfare (usually including sidewalks) that is lined with buildings
+trip	trip.n.01	a journey for some purpose (usually including the return)
+web	world_wide_web.n.01	computer network consisting of a collection of internet sites that offer text and graphics and sound and animation resources through the hypertext transfer protocol
+web-site	web_site.n.01	a computer connected to the internet that maintains a series of web pages on the World Wide Web
