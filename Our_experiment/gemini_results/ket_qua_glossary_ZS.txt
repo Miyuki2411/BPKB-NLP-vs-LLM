@@ -1,0 +1,28 @@
+I need to create a Glossary made with the definitions of terms based on the scenario provided for your business, PizzaPazza.
+
+Here is the generated glossary document containing definitions for all the key terms, roles, and entities mentioned in the process:
+
+Glossary of Terms - PizzaPazza
+[file-tag: code-generated-file-pizzapazza-glossary]
+
+Overview of Glossary Terms Included:
+Customer (Mary): The end-user who visits the PizzaPazza website, places and pays for orders, and receives the delivered food at home.
+
+Web-site: The online digital interface where customers submit their pizza orders and make payments.
+
+Order: A formal request submitted by a customer containing details of the purchased items (e.g., two Napoli pizzas) along with payment.
+
+Dough: The high-quality, in-house produced base ingredient essential for making good pizzas.
+
+Cook (John): The kitchen staff member responsible for managing the worklist, preparing the pizzas, cooking them, and alerting the delivery-boy.
+
+Worklist: The queue or schedule where incoming pizza orders are organized for the cook to process in turn.
+
+Delivery-boy (Eddy): The staff member responsible for knowing the local streets, picking up cooked pizzas from the shop, and speedily delivering them to the customer's address.
+
+Delivery Trip: The transit process undertaken by the delivery-boy to reach the customer's home.
+
+
+
+
+01/11/2026 Gemini Fast

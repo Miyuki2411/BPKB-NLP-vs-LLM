@@ -1,0 +1,270 @@
+shop	shop.n.01	a mercantile establishment for the retail sale of goods or services
+shop	workshop.n.01	small workplace where handcrafts or manufacturing are done
+shop	shop_class.n.01	a course of instruction in a trade (as carpentry or electricity)
+shop	shop.v.01	do one's shopping
+shop	patronize.v.02	do one's shopping at; do business with; be a customer or client of
+shop	shop.v.03	shop around; not necessarily buying
+shop	denounce.v.04	give away information about somebody
+customer	customer.n.01	someone who pays for goods or services
+customer	customer.n.01	someone who pays for goods or services
+client	client.n.01	a person who seeks the advice of a lawyer
+client	customer.n.01	someone who pays for goods or services
+client	node.n.08	(computer science) any computer that is hooked up to a computer network
+shop	shop.n.01	a mercantile establishment for the retail sale of goods or services
+shop	workshop.n.01	small workplace where handcrafts or manufacturing are done
+shop	shop_class.n.01	a course of instruction in a trade (as carpentry or electricity)
+shop	shop.v.01	do one's shopping
+shop	patronize.v.02	do one's shopping at; do business with; be a customer or client of
+shop	shop.v.03	shop around; not necessarily buying
+shop	denounce.v.04	give away information about somebody
+boy	male_child.n.01	a youthful male person
+boy	boy.n.02	a friendly informal reference to a grown man
+boy	son.n.01	a male human offspring
+boy	boy.n.04	(ethnic slur) offensive and disparaging term for Black man
+street	street.n.01	a thoroughfare (usually including sidewalks) that is lined with buildings
+street	street.n.02	the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel
+street	street.n.03	the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction
+street	street.n.04	a situation offering opportunities
+street	street.n.05	people living or working on the same street
+customer	customer.n.01	someone who pays for goods or services
+customer	customer.n.01	someone who pays for goods or services
+customer	customer.n.01	someone who pays for goods or services
+cook	cook.n.01	someone who cooks food
+cook	cook.n.02	English navigator who claimed the east coast of Australia for Britain and discovered several Pacific islands (1728-1779)
+cook	cook.v.01	prepare a hot meal
+cook	cook.v.02	prepare for eating by applying heat
+cook	cook.v.03	transform and make suitable for consumption by heating
+cook	fudge.v.01	tamper, with the purpose of deception
+cook	cook.v.05	transform by heating
+turn	bend.n.01	a circular segment of a curve
+turn	turn.n.02	the act of changing or reversing the direction of the course
+turn	turn.n.03	(game) the activity of doing something in an agreed succession
+turn	turn.n.04	an unforeseen development
+turn	turning.n.04	a movement in a new direction
+turn	turn.n.06	the act of turning away or in the opposite direction
+turn	twist.n.13	turning or twisting around (in place)
+turn	go.n.01	a time for working (after which you will be relieved by someone else)
+turn	turn.n.09	(sports) a division during which one team is on the offensive
+turn	act.n.04	a short theatrical performance that is part of a longer program
+turn	turn.n.11	a favor for someone
+turn	turn.n.12	taking a short walk out and back
+turn	turn.v.01	change orientation or direction, also in the abstract sense
+turn	change_state.v.01	undergo a transformation or a change of position or action
+turn	become.v.02	undergo a change or development
+turn	turn.v.04	cause to move around or rotate
+turn	change_by_reversal.v.01	change to the contrary
+turn	turn.v.06	pass to the other side of
+turn	turn.v.07	pass into a condition gradually, take on a specific property or attribute; become
+turn	turn.v.08	let (something) fall or spill from a container
+turn	turn.v.09	move around an axis or a center
+turn	turn.v.10	cause to move around a center so as to show another side of
+turn	turn.v.11	to send or let go
+turn	plow.v.01	to break and turn over earth especially with a plow
+turn	turn.v.13	shape by rotating on a lathe or cutting device or a wheel
+turn	turn.v.14	change color
+turn	twist.v.10	twist suddenly so as to sprain
+turn	turn.v.16	cause to change or turn into something different;assume new characteristics
+turn	turn.v.17	accomplish by rotating
+turn	turn.v.18	get by buying and selling
+turn	turn.v.19	cause to move along an axis or into a new direction
+turn	turn.v.20	channel one's attention, interest, thought, or attention toward or away from something
+turn	flex.v.05	cause (a plastic object) to assume a crooked or angular form
+turn	turn.v.22	alter the functioning or setting of
+turn	turn.v.23	direct at someone
+turn	call_on.v.01	have recourse to or make an appeal or request for help or information to
+turn	sour.v.01	go sour or spoil
+turn	turn.v.26	become officially one year older
+cook	cook.n.01	someone who cooks food
+cook	cook.n.02	English navigator who claimed the east coast of Australia for Britain and discovered several Pacific islands (1728-1779)
+cook	cook.v.01	prepare a hot meal
+cook	cook.v.02	prepare for eating by applying heat
+cook	cook.v.03	transform and make suitable for consumption by heating
+cook	fudge.v.01	tamper, with the purpose of deception
+cook	cook.v.05	transform by heating
+cook	cook.n.01	someone who cooks food
+cook	cook.n.02	English navigator who claimed the east coast of Australia for Britain and discovered several Pacific islands (1728-1779)
+cook	cook.v.01	prepare a hot meal
+cook	cook.v.02	prepare for eating by applying heat
+cook	cook.v.03	transform and make suitable for consumption by heating
+cook	fudge.v.01	tamper, with the purpose of deception
+cook	cook.v.05	transform by heating
+cook	cook.n.01	someone who cooks food
+cook	cook.n.02	English navigator who claimed the east coast of Australia for Britain and discovered several Pacific islands (1728-1779)
+cook	cook.v.01	prepare a hot meal
+cook	cook.v.02	prepare for eating by applying heat
+cook	cook.v.03	transform and make suitable for consumption by heating
+cook	fudge.v.01	tamper, with the purpose of deception
+cook	cook.v.05	transform by heating
+boy	male_child.n.01	a youthful male person
+boy	boy.n.02	a friendly informal reference to a grown man
+boy	son.n.01	a male human offspring
+boy	boy.n.04	(ethnic slur) offensive and disparaging term for Black man
+pizza	pizza.n.01	Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese
+boy	male_child.n.01	a youthful male person
+boy	boy.n.02	a friendly informal reference to a grown man
+boy	son.n.01	a male human offspring
+boy	boy.n.04	(ethnic slur) offensive and disparaging term for Black man
+order	order.n.01	(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed
+order	order.n.02	a degree in a continuum of size or quantity
+order	order.n.03	established customary state (especially of society)
+order	ordering.n.01	logical or comprehensible arrangement of separate elements
+order	orderliness.n.02	a condition of regular or proper arrangement
+order	decree.n.01	a legally binding command or decision entered on the court record (as if issued by a court or judge)
+order	order.n.07	a commercial document used to request someone to supply something in return for payment and providing specifications and quantities
+order	club.n.02	a formal association of people with similar interests
+order	order.n.09	a body of rules followed by an assembly
+order	holy_order.n.01	(usually plural) the status or rank or office of a Christian clergyman in an ecclesiastical hierarchy
+order	order.n.11	a group of person living under a religious rule
+order	order.n.12	(biology) taxonomic group containing one or more families
+order	order.n.13	a request for something to be made, supplied, or served
+order	order.n.14	(architecture) one of original three styles of Greek architecture distinguished by the type of column and entablature used or a style developed from the original three by the Romans
+order	order.n.15	the act of putting things in a sequential arrangement
+order	order.v.01	give instructions to or direct somebody to do something with authority
+order	order.v.02	make a request for something
+order	order.v.03	issue commands or orders for
+order	regulate.v.02	bring into conformity with rules or principles or usage; impose regulations
+order	order.v.05	bring order to or into
+order	order.v.06	place in a certain order
+order	ordain.v.02	appoint to a clerical posts
+order	arrange.v.07	arrange thoughts, ideas, temporal events
+order	rate.v.01	assign a rank or rating to
+customer	customer.n.01	someone who pays for goods or services
+web	web.n.01	an intricate network suggesting something that was formed by weaving or interweaving
+web	web.n.02	an intricate trap that entangles or ensnares its victim
+web	vane.n.04	the flattened weblike part of a feather consisting of a series of barbs on either side of the shaft
+web	network.n.01	an interconnected system of things or people
+web	world_wide_web.n.01	computer network consisting of a collection of internet sites that offer text and graphics and sound and animation resources through the hypertext transfer protocol
+web	web.n.06	a fabric (especially a fabric in the process of being woven)
+web	web.n.07	membrane connecting the toes of some aquatic birds and mammals
+web	web.v.01	construct or form a web, as if by weaving
+site	site.n.01	the piece of land on which something is located (or is to be located)
+site	site.n.02	physical position in relation to the surroundings
+site	web_site.n.01	a computer connected to the internet that maintains a series of web pages on the World Wide Web
+site	locate.v.03	assign a location to
+pizza	pizza.n.01	Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese
+dough	dough.n.01	a flour mixture stiff enough to knead or roll
+dough	boodle.n.01	informal terms for money
+order	order.n.01	(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed
+order	order.n.02	a degree in a continuum of size or quantity
+order	order.n.03	established customary state (especially of society)
+order	ordering.n.01	logical or comprehensible arrangement of separate elements
+order	orderliness.n.02	a condition of regular or proper arrangement
+order	decree.n.01	a legally binding command or decision entered on the court record (as if issued by a court or judge)
+order	order.n.07	a commercial document used to request someone to supply something in return for payment and providing specifications and quantities
+order	club.n.02	a formal association of people with similar interests
+order	order.n.09	a body of rules followed by an assembly
+order	holy_order.n.01	(usually plural) the status or rank or office of a Christian clergyman in an ecclesiastical hierarchy
+order	order.n.11	a group of person living under a religious rule
+order	order.n.12	(biology) taxonomic group containing one or more families
+order	order.n.13	a request for something to be made, supplied, or served
+order	order.n.14	(architecture) one of original three styles of Greek architecture distinguished by the type of column and entablature used or a style developed from the original three by the Romans
+order	order.n.15	the act of putting things in a sequential arrangement
+order	order.v.01	give instructions to or direct somebody to do something with authority
+order	order.v.02	make a request for something
+order	order.v.03	issue commands or orders for
+order	regulate.v.02	bring into conformity with rules or principles or usage; impose regulations
+order	order.v.05	bring order to or into
+order	order.v.06	place in a certain order
+order	ordain.v.02	appoint to a clerical posts
+order	arrange.v.07	arrange thoughts, ideas, temporal events
+order	rate.v.01	assign a rank or rating to
+address	address.n.01	(computer science) the code that identifies where a piece of information is stored
+address	address.n.02	the place where a person or organization can be found or communicated with
+address	address.n.03	the act of delivering a formal spoken communication to an audience
+address	address.n.04	the manner of speaking to another individual
+address	address.n.05	a sign in front of a house or business carrying the conventional form by which its location is described
+address	address.n.06	written directions for finding some location; written on letters or packages that are to be delivered to that location
+address	address.n.07	the stance assumed by a golfer in preparation for hitting a golf ball
+address	savoir-faire.n.01	social skill
+address	address.v.01	speak to
+address	address.v.02	give a speech to
+address	address.v.03	put an address on (an envelope)
+address	address.v.04	direct a question at someone
+address	address.v.05	address or apply oneself to something, direct one's efforts towards something, such as a question
+address	address.v.06	greet, as with a prescribed form, title, or name
+address	address.v.07	access or locate by address
+address	cover.v.05	act on verbally or in some form of artistic expression
+address	address.v.09	speak to someone
+address	address.v.10	adjust and aim (a golf ball) at in preparation of hitting
+order	order.n.01	(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed
+order	order.n.02	a degree in a continuum of size or quantity
+order	order.n.03	established customary state (especially of society)
+order	ordering.n.01	logical or comprehensible arrangement of separate elements
+order	orderliness.n.02	a condition of regular or proper arrangement
+order	decree.n.01	a legally binding command or decision entered on the court record (as if issued by a court or judge)
+order	order.n.07	a commercial document used to request someone to supply something in return for payment and providing specifications and quantities
+order	club.n.02	a formal association of people with similar interests
+order	order.n.09	a body of rules followed by an assembly
+order	holy_order.n.01	(usually plural) the status or rank or office of a Christian clergyman in an ecclesiastical hierarchy
+order	order.n.11	a group of person living under a religious rule
+order	order.n.12	(biology) taxonomic group containing one or more families
+order	order.n.13	a request for something to be made, supplied, or served
+order	order.n.14	(architecture) one of original three styles of Greek architecture distinguished by the type of column and entablature used or a style developed from the original three by the Romans
+order	order.n.15	the act of putting things in a sequential arrangement
+order	order.v.01	give instructions to or direct somebody to do something with authority
+order	order.v.02	make a request for something
+order	order.v.03	issue commands or orders for
+order	regulate.v.02	bring into conformity with rules or principles or usage; impose regulations
+order	order.v.05	bring order to or into
+order	order.v.06	place in a certain order
+order	ordain.v.02	appoint to a clerical posts
+order	arrange.v.07	arrange thoughts, ideas, temporal events
+order	rate.v.01	assign a rank or rating to
+payment	payment.n.01	a sum of money paid or a claim discharged
+payment	payment.n.02	the act of paying money
+payment	requital.n.02	an act of requiting; returning in kind
+order	order.n.01	(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed
+order	order.n.02	a degree in a continuum of size or quantity
+order	order.n.03	established customary state (especially of society)
+order	ordering.n.01	logical or comprehensible arrangement of separate elements
+order	orderliness.n.02	a condition of regular or proper arrangement
+order	decree.n.01	a legally binding command or decision entered on the court record (as if issued by a court or judge)
+order	order.n.07	a commercial document used to request someone to supply something in return for payment and providing specifications and quantities
+order	club.n.02	a formal association of people with similar interests
+order	order.n.09	a body of rules followed by an assembly
+order	holy_order.n.01	(usually plural) the status or rank or office of a Christian clergyman in an ecclesiastical hierarchy
+order	order.n.11	a group of person living under a religious rule
+order	order.n.12	(biology) taxonomic group containing one or more families
+order	order.n.13	a request for something to be made, supplied, or served
+order	order.n.14	(architecture) one of original three styles of Greek architecture distinguished by the type of column and entablature used or a style developed from the original three by the Romans
+order	order.n.15	the act of putting things in a sequential arrangement
+order	order.v.01	give instructions to or direct somebody to do something with authority
+order	order.v.02	make a request for something
+order	order.v.03	issue commands or orders for
+order	regulate.v.02	bring into conformity with rules or principles or usage; impose regulations
+order	order.v.05	bring order to or into
+order	order.v.06	place in a certain order
+order	ordain.v.02	appoint to a clerical posts
+order	arrange.v.07	arrange thoughts, ideas, temporal events
+order	rate.v.01	assign a rank or rating to
+pizza	pizza.n.01	Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese
+pizza	pizza.n.01	Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese
+boy	male_child.n.01	a youthful male person
+boy	boy.n.02	a friendly informal reference to a grown man
+boy	son.n.01	a male human offspring
+boy	boy.n.04	(ethnic slur) offensive and disparaging term for Black man
+pizza	pizza.n.01	Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese
+trip	trip.n.01	a journey for some purpose (usually including the return)
+trip	trip.n.02	a hallucinatory experience induced by drugs
+trip	slip.n.07	an accidental misstep threatening (or causing) a fall
+trip	trip.n.04	an exciting or stimulating experience
+trip	tripper.n.04	a catch mechanism that acts as a switch
+trip	trip.n.06	a light or nimble tread
+trip	trip.n.07	an unintentional but embarrassing blunder
+trip	stumble.v.02	miss a step and fall or nearly fall
+trip	trip.v.02	cause to stumble
+trip	travel.v.03	make a trip for pleasure
+trip	trip.v.04	put in motion or move to act
+trip	trip.v.05	get high, stoned, or drugged
+delivery	delivery.n.01	the act of delivering or distributing something (as goods or mail)
+delivery	delivery.n.02	the event of giving birth
+delivery	manner_of_speaking.n.01	your characteristic style or manner of expressing yourself orally
+delivery	delivery.n.04	the voluntary transfer of something (title or possession) from one party to another
+delivery	pitch.n.02	(baseball) the act of throwing a baseball by a pitcher to a batter
+delivery	rescue.n.01	recovery or preservation from loss or danger
+delivery	delivery.n.07	the act of delivering a child
+delivery-boy	jesus.n.01	a teacher and prophet born in Bethlehem and active in Nazareth; his life and sermons form the basis for Christianity (circa 4 BC - AD 29)
+delivery-boy	savior.n.02	a person who rescues you from harm or danger
+delivery-boy	deliveryman.n.01	someone employed to make deliveries
+delivery-boy	deliverer.n.04	a person who gives up or transfers money or goods
+web-site	web_site.n.01	a computer connected to the internet that maintains a series of web pages on the World Wide Web

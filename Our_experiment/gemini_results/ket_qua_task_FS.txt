@@ -1,0 +1,13 @@
+Here are the extracted general tasks from the PizzaPazza business process in the requested <Actor, Object Process,> format:
+
+Actor		Process		Object
+customer	to fill in	order
+customer	to submit	payment
+cook	        to produce	dough
+cook	        to put	        order
+cook		to prepare	pizzas
+cook		to cook		pizzas
+cook		to alert	delivery-boy
+delivery-boy	to collect	pizzas
+delivery-boy	to start	delivery trip
+delivery-boy	to achieve	delivery

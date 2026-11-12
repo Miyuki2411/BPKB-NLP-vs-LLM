@@ -1,0 +1,44 @@
+Here is the categorization of the key terms extracted from the PizzaPazza home delivery scenario, organized into Actors, Processes, and Objects.
+
+1. Actors (Who makes an action)
+Customer / Mary: The person who connects to the website, places the order, provides payment, and receives the pizzas.
+
+Web-site: The digital platform that receives the customer's order and payment submission.
+
+Cook / John: The kitchen staff member responsible for managing the worklist, preparing, and cooking the pizzas.
+
+Delivery-boy / Eddy: The person responsible for knowing the streets, collecting the cooked pizzas, and delivering them to the customer.
+
+2. Processes (The actions taken)
+To fill in / to place: The action of entering and submitting the order and payment details on the website.
+
+To produce / to make: The in-house creation of the dough and the overall craft of making pizzas.
+
+To bake / to cook: The careful baking and cooking of the prepared pizzas in the kitchen.
+
+To fulfill: The overall action of executing and completing the customer's order quickly.
+
+To put (on the worklist): The action of queuing the order for preparation.
+
+To alert: The action of signaling the delivery-boy to come pick up the pizzas.
+
+To collect / to pick up: The action of gathering the pizzas from the kitchen to start the delivery trip.
+
+To deliver / to reach: The action of traveling through the streets to bring the order to the customer's address.
+
+3. Objects (The result or direct object of the action)
+Order: The customer's requested items and details submitted through the website (placed on the worklist).
+
+Payment: The financial transaction provided by the customer alongside their order.
+
+Dough: The high-quality base material produced in-house for making the pizzas.
+
+Pizza (Napoli pizzas): The culinary product prepared by the cook, collected by the delivery-boy, and delivered to the customer.
+
+Worklist: The queue where incoming orders are placed before preparation.
+
+Delivery trip: The journey undertaken by the delivery-boy to reach the customer's home.
+
+Customer's address / Home: The final destination where the order is successfully delivered.
+
+Would you like to analyze this scenario further, such as mapping these terms into a BPMN (Business Process Model and Notation) diagram workflow?

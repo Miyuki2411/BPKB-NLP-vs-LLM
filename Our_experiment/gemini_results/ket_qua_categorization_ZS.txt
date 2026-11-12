@@ -1,0 +1,40 @@
+Here is the classification of the terms from your scenario into the three requested categories (Actor, Process, and Object):
+
+1. Actor (Who makes an action)
+Customer / Mary: The person who connects to the website, places the order, provides payment, and receives the delivery.
+
+Shop / PizzaPazza: The business entity that receives orders and fulfills them.
+
+Cook / John: The staff member responsible for reviewing the worklist, preparing, and cooking the pizzas.
+
+Delivery-boy / Eddy: The staff member who knows the streets, picks up the cooked pizzas, and delivers them to the customer.
+
+2. Process (The action)
+Fills in / Places / Submits: The customer's action of inputting and sending their order and payment through the website.
+
+Produces (dough): The in-house creation of the dough required for making pizzas.
+
+Baking / Cooks / Prepares: The culinary steps taken by the cook to make the pizzas.
+
+Fulfill: The overall process of completing and delivering the customer's order quickly.
+
+Alerts: The cook signaling the delivery-boy to pick up the ready pizzas.
+
+Collects / Picks up: The delivery-boy gathering the pizzas from the kitchen.
+
+Delivery trip / Reaches: The travel process of navigating the streets to bring the pizzas to the customer's home.
+
+3. Object (The result of the action / Direct object)
+Web-site: The digital platform used to submit orders and payments.
+
+Order / Mary's order: The submitted request containing the details of what needs to be made.
+
+Payment: The monetary transaction provided alongside the order.
+
+Dough: The good-quality, in-house-made base ingredient for the pizzas.
+
+Worklist: The queue where incoming orders are placed for the cook.
+
+Napoli pizzas / Pizzas: The food items prepared, cooked, collected, and delivered.
+
+Customer’s address / Mary's home: The final destination where the delivery is completed.

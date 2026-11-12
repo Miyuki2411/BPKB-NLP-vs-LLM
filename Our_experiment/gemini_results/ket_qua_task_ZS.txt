@@ -1,0 +1,17 @@
+Here are the extracted tasks in the form of <Actor, Object Process,> triples based on the narrative:
+
+<Customer (Mary), Connects PizzaPazza to, web-site>
+
+<Customer (Mary), (two Napoli Order Places and payment pizzas) submits,>
+
+<Cook (John), Mary's Puts, on order the worklist>
+
+<Cook (John), Ordered Prepares and cooks, pizzas>
+
+<Cook (Eddy) (John), Alerts, Delivery-boy>
+
+<Delivery-boy (Eddy), Collects, Pizzas>
+
+<Delivery-boy (Eddy), Delivery Starts, trip>
+
+<Delivery-boy (Eddy), Delivers, Mary's Order home to>
