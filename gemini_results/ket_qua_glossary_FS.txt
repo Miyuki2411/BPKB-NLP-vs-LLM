@@ -1,0 +1,36 @@
+Here is a business process glossary based on the scenario provided for PizzaPazza. The terms have been extracted and defined in the context of the business operations.
+
+Business Process Glossary: PizzaPazza
+Customer
+
+Definition: A person (e.g., Mary) who places an order for pizzas and provides payment through the company's website.
+
+Order
+
+Definition: A request submitted by a customer through the website specifying the desired items (e.g., two Napoli pizzas) along with the associated payment.
+
+Web-site
+
+Definition: The online digital platform used by customers to submit their pizza orders and make payments to the shop.
+
+Dough
+
+Definition: An in-house produced mixture of flour and other ingredients that serves as the base for making pizzas.
+
+Worklist
+
+Definition: A queue or schedule managed by the cook where incoming customer orders are placed and ordered for preparation.
+
+Cook
+
+Definition: The kitchen staff member (e.g., John) responsible for managing the worklist, preparing the pizzas, and baking them.
+
+Delivery-boy
+
+Definition: The logistics staff member (e.g., Eddy) who knows local streets, collects ready pizzas from the shop, and delivers them directly to the customer's address.
+
+Delivery Trip
+
+Definition: The transit process undertaken by the delivery-boy to travel from the pizza shop to the customer's home.
+
+Would you like to expand this glossary into a broader business process model (such as identifying activities, events, and gateways for a BPMN diagram)?
