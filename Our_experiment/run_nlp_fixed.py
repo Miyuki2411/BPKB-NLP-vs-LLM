@@ -1,14 +1,3 @@
-"""
-Ban sua cua project_EKGwithNLP.py (tac gia: De Nicola et al.)
-Thay doi so voi ban goc:
-  - Duong dan tinh tu vi tri file nay (khong can cd), tro toi thu muc NLP/
-  - Bo phan chay AllenNLP (da co ket qua san trong coreferencing_resolution/)
-  - Bo nltk.download() tuong tac
-  - Doc/ghi file bang utf-8
-  - Ket qua ghi vao NLP/output_ours/ (khong de len output cua tac gia)
-
-CACH DUNG: dat file nay vao NLP/code/ roi chay:  python run_nlp_fixed.py
-"""
 import os
 import re
 import spacy
